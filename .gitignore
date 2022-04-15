@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# final binaries
+**/scoff
+
+# ide config
+.vscode/
